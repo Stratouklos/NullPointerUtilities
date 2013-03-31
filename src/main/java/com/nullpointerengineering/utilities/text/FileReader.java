@@ -10,7 +10,7 @@ import java.nio.file.Path;
  * User: Stratos
  * Date: 20/03/13
  * Time: 9:02 PM
- * Utility class to read a file line by line
+ * Utility class to read a file line by line.
  */
 public final class FileReader {
 
